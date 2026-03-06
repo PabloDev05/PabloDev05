@@ -1,16 +1,57 @@
-## Hi there 👋
+# Pablo Serratti
 
-<!--
-**PabloDev05/PabloDev05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer  
+⚙️ TypeScript • Node.js • React • MongoDB  
 
-Here are some ideas to get you started:
+Actualmente desarrollando **Nocthalis**, un RPG web con arquitectura fullstack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Proyecto principal
+
+### 🕹️ Nocthalis
+RPG web con arquitectura backend autoritativa.
+
+Características principales:
+
+- ⚔️ PvE Missions
+- 🏟️ PvP Arena
+- 🎒 Sistema de inventario
+- 🎲 Combate determinístico
+- 🔐 Autenticación segura con JWT
+- 📦 Backend Node.js + MongoDB
+- ⚡ Frontend React + Vite
+
+---
+
+## 🧰 Stack principal
+
+**Backend**
+
+- Node.js
+- Express
+- TypeScript
+- MongoDB / Mongoose
+- JWT Auth
+
+**Frontend**
+
+- React
+- Vite
+- TypeScript
+- TailwindCSS
+
+---
+
+## 📈 Actualmente trabajando en
+
+- Arquitectura del backend de **Nocthalis**
+- Sistema de combate PvE / PvP
+- Sistema de inventario RPG
+- Economía del juego
+
+---
+
+## 📫 Contacto
+
+- GitHub: https://github.com/PabloDev05
